@@ -15,6 +15,7 @@ cask "iterm2"
 brew "p7zip"
 brew "gzip"
 brew "python3"
+brew "gnu-sed"
 
 # Networking
 cask "viscosity"
