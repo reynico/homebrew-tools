@@ -1,11 +1,17 @@
-# Text editors, IDEs and tools
+# Custom Formulas
+tap "reynico/homebrew-tools"
+
+# Text editors, compilers, IDEs and tools
 brew "vim"
 cask "visual-studio-code"
 cask "postman"
+brew "go"
 
-# Containers
+# Containers & Kubernetes
 brew "docker"
 brew "docker-compose"
+brew "kubectl"
+brew "helm"
 
 # Command line tools
 brew "jq"
