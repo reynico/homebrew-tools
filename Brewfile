@@ -12,6 +12,7 @@ brew "docker"
 brew "docker-compose"
 brew "kubectl"
 brew "helm"
+brew "osprey"
 
 # Command line tools
 brew "jq"
