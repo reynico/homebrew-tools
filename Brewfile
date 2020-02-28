@@ -11,7 +11,7 @@ brew "go"
 brew "docker"
 brew "docker-compose"
 brew "kubectl"
-brew "helm"
+brew "reynico/homebrew-tools/helm"
 brew "osprey"
 
 # Command line tools
